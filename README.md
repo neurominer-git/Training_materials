@@ -1,2 +1,2 @@
-# Example_data
-Example data to be used with NeuroMiner-1
+# Training_materials
+Manual and example data to be used with NeuroMiner-1
